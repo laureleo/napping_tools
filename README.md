@@ -1,1 +1,1 @@
-# world_news_explorer
+# Resources for napsters
